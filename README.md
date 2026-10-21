@@ -5,4 +5,4 @@
 - [PDF 이력서 + 포트폴리오](https://pilgwon.github.io/resume/pilgwon_resume_github.pdf)
 - [Markdown 이력서](./resume.md)
 
-이력서 내용은 `resume.md`에 관리합니다. 메인 PDF는 이력서 3페이지와 포트폴리오 6페이지를 합친 9페이지 문서입니다. 기존 공유 링크를 유지하기 위해 PDF 파일명은 `pilgwon_resume_github.pdf`를 사용합니다. 이전 버전은 Git 이력에 보존합니다.
+이력서 내용은 `resume.md`에 관리합니다. 메인 PDF는 이력서 3페이지와 포트폴리오 4페이지를 합친 7페이지 문서입니다. 기존 공유 링크를 유지하기 위해 PDF 파일명은 `pilgwon_resume_github.pdf`를 사용합니다. 이전 버전은 Git 이력에 보존합니다.
