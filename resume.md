@@ -8,7 +8,7 @@
 
 이메일: [rlavlfrnjs12@gmail.com](mailto:rlavlfrnjs12@gmail.com)  
 GitHub: [https://github.com/pilgwon](https://github.com/pilgwon)  
-블로그(Medium): [https://medium.com/@pilgwon](https://medium.com/@pilgwon)
+블로그: [https://pilgwon.github.io](https://pilgwon.github.io)
 
 ## 경력
 
@@ -80,10 +80,10 @@ B2C·B2B 커머스 앱을 개발하고 4개 언어 현지화를 적용했습니�
 
 ## 글쓰기와 지식 공유
 
-블로그([https://medium.com/@pilgwon](https://medium.com/@pilgwon))에 제품 개발·기술 선택·협업에서 배운 내용을 쓰고 번역합니다. 문제를 해결한 과정과 선택의 이유를 다른 사람이 이해하고 활용할 수 있도록 설명하는 일을 중요하게 생각합니다.
+블로그([https://pilgwon.github.io](https://pilgwon.github.io))에 제품 개발·기술 선택·협업에서 배운 내용을 쓰고 번역합니다. 문제를 해결한 과정과 선택의 이유를 다른 사람이 이해하고 활용할 수 있도록 설명하는 일을 중요하게 생각합니다.
 
-- **권위없이 팀을 이끌 수 있는 비법** · 슬링에서 영향을 받은 리더십 글을 요약·소개하고, 신뢰와 소통에 대한 제 경험과 생각을 덧붙였습니다. [https://medium.com/@pilgwon/권위없이-팀을-이끌-수-있는-비법-2a6208b40d82](https://medium.com/@pilgwon/권위없이-팀을-이끌-수-있는-비법-2a6208b40d82)
-- **정기 배포할 결심** · 오르조의 매주 배포를 이어가는 이유와 자동화·공동 QA의 역할을 설명했습니다. [https://medium.com/@pilgwon/비정기-태블릿-챕터-1-정기-배포할-결심-c7b8ee8a6cf5](https://medium.com/@pilgwon/비정기-태블릿-챕터-1-정기-배포할-결심-c7b8ee8a6cf5)
+- **권위없이 팀을 이끌 수 있는 비법** · 슬링에서 영향을 받은 리더십 글을 요약·소개하고, 신뢰와 소통에 대한 제 경험과 생각을 덧붙였습니다. [https://pilgwon.github.io/post/lead-without-authority](https://pilgwon.github.io/post/lead-without-authority)
+- **정기 배포할 결심** · 오르조의 매주 배포를 이어가는 이유와 자동화·공동 QA의 역할을 설명했습니다. [https://pilgwon.github.io/post/tablet-chapter-regular-release](https://pilgwon.github.io/post/tablet-chapter-regular-release)
 
 ## 개인 프로젝트
 
